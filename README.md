@@ -9,7 +9,7 @@ The elements :
 - Peper : Speed the pacman up !
 - Cherry : can eat the ghost (Reverse the case)
 - mushroom : takes a health
-It also opens a CMD log for the frames reporting 
+- It also opens a CMD log for the frames reporting 
 Graphic Library : Raylib 
 Language : C
 Build : CMake
