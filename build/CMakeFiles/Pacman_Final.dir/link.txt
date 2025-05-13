@@ -1,0 +1,3 @@
+"C:\Program Files\CMake\bin\cmake.exe" -E rm -f CMakeFiles\Pacman_Final.dir/objects.a
+C:\mingw64\bin\ar.exe qc CMakeFiles\Pacman_Final.dir/objects.a @CMakeFiles\Pacman_Final.dir\objects1.rsp
+C:\mingw64\bin\gcc.exe -g -Wl,--whole-archive CMakeFiles\Pacman_Final.dir/objects.a -Wl,--no-whole-archive -o Pacman_Final.exe -Wl,--out-implib,libPacman_Final.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Pacman_Final.dir\linkLibs.rsp
