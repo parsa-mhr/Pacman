@@ -19,7 +19,10 @@ Build : CMake
 ======
 Attention : Because the frameworks and extractions was not allowed on this project the exe file should run in the build folder and the whole project should be downloaded fully 
 the best way to access full file is download releases
+
 ** exe file is inside build folder - avoid to download only exe file it will not work good **
+
 - probably you will get the windows defender error thats because of no extractions and using no framework that is why the app doesnt have exact identity for windows but there isnt any problem with it and has no access over than own game folder in your pc you can check the code =)   
+
 # author : Parsa Maher
 BP project - Fall 2024
